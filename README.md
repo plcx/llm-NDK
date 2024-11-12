@@ -4,6 +4,13 @@
 ## Onedrive Download
 https://gpsracsch-my.sharepoint.com/:u:/g/personal/c46636_vip_officed_top/EdWpDCNFkUVCn8Lj_uJIXVsBmy1D_Tte-I0p3BxLFgjcDQ?e=DSxG5d
 
+## Android studio虚拟机
+![e15ab863c05d084c36faab5993800de](https://github.com/user-attachments/assets/cbf89cd8-8ab4-4c90-a5bc-848ecc2c8f60)
+
+![18dffcd14d11015a32d67207d8bb828](https://github.com/user-attachments/assets/d4a10490-4391-47b2-b7d6-4ed8a1b96a01)
+
+
+
 ## 模型导出与下载
 
 llm模型导出`onnx`和`mnn`模型请使用[llm-export](https://github.com/wangzhaode/llm-export)
