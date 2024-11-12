@@ -1,0 +1,15 @@
+# ignore dirs
+build/
+.vscode/
+.cached/
+.cache/
+libs/
+Debug/
+Release
+include/pthread.h
+include/sched.h
+include/semaphore.h
+docs/_build/
+
+# ignore files
+.DS_Store
