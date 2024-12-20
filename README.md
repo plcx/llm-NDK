@@ -18,6 +18,8 @@ llm模型导出`onnx`和`mnn`模型请使用[llm-export](https://github.com/wang
 
 `modelscope`模型下载：
 ## 模型下载
+# MNN models
+https://modelscope.cn/organization/MNN
 
 |   Model  | ModelScope  | Hugging Face |
 | -------- | ----------- | ------------ |
