@@ -1,5 +1,6 @@
 # llm-NDK
-![296834b58329ddd53b106353a1c215b](https://github.com/user-attachments/assets/ca431b07-4b5a-4049-b05c-f0db8157f10a)
+![image](https://github.com/user-attachments/assets/d0bf696a-db08-47e8-82fe-7551215c4f82)
+
 ![a19d2b0843ef2d47ad26cfd476cec8f](https://github.com/user-attachments/assets/a806663b-17e3-41c6-98a6-67d715e4f8ae)
 
 ## Onedrive Download
